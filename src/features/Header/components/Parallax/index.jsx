@@ -16,8 +16,6 @@ const Parallax = ({ parallaxData }) => {
     selectDestination,
   } = parallaxData;
 
-  console.log(title);
-
   const searchData = {
     searchCity,
     searchMoney,
